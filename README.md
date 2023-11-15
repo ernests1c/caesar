@@ -60,7 +60,7 @@ Piemēri:
 4. Ievads: režīms 1, teksts "TEV AFA VLR TOFQB QEFP?", rotācija -4. Izvads: "WHY DID YOU WRITE THIS".  
   
 ## Ieraksti neatbilstošus specifikācijas punktus zemāk un piemini kāpēc tie neatblist
-Šeit:
+Šeit: pēdējais piemers neatbilst, W ir 3 burtus pēc T
 
 Izmaiņas saglabā savā repozitorijā (Commit changes).  
 
